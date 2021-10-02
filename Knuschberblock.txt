@@ -1,0 +1,22 @@
+androidtvchannels-pa.googleapis.com
+emoji.redditmedia.com
+pps.whatsapp.net
+e15.whatsapp.net
+g.whatsapp.net
+googleads.g.doubleclick.net
+ad.googlesyndication.com
+ad.doubleclick.net
+device-metrics-us-2.amazon.com
+tpc.googlesyndication.com
+
+ec.razer.com
+
+
+# Fernseher Nachts:
+history.google.com
+footprints-pa.googleapis.com
+push.prod.netflix.com
+nrdp.prod.ftl.netflix.com
+secure.netflix.com
+preapp.prod.partner.netflix.net
+mtalk.google.com
