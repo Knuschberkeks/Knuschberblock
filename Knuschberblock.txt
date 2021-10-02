@@ -1,3 +1,8 @@
+# This is just a blocklist for pi-hole that I maintain for me personally.
+# you can subscribe to it if you want, but I give no guarantee it doesn't break anything you need. Again, these are things I want to block on my own networks.
+# it's free to use and copy if you want.
+
+
 androidtvchannels-pa.googleapis.com
 emoji.redditmedia.com
 pps.whatsapp.net
