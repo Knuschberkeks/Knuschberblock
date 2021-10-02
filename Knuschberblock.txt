@@ -1,5 +1,7 @@
 # This is just a blocklist for Pi-Hole that I maintain for me personally.
-# you can subscribe to it if you want, but I give no guarantee it doesn't break anything you need. Again, these are things I want to block on my own networks.
+# You can subscribe to it if you want, but I give no guarantee it doesn't break anything you need,
+# indeed it does break some stuff, like Google Plus, but they are all things that I don't use anyway.
+# Again, these are things I want to block on my own networks.
 # 
 # Copyright © 2021 Knuschberkeks
 #
@@ -12,13 +14,9 @@
 # If you use pi-hole, consider supporting it. Visit https://pi-hole.net/donate/#sponsorship
 #
 # Thanks to Ritter Sport for fueling my late night tinkering. Visit https://www.ritter-sport.com/
-# I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Ritter Sport Brand,
+# I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Ritter Sport brand,
 # or any of its subsidiaries or its affiliates.
 # The names Ritter Sport and Knusperkeks as well as related names, marks, emblems and images are registered trademarks of their respective owners.
-#
-# Github: https://github.com/Knuschberkeks/Knuschberblock
-# License: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/LICENSE
-# Raw file: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/Knuschberblock.txt
 
 #        #%%%#%#*/((############(############################################%%%*%%%%#%
 #        ####%%#*(###%##########(############################################%%% %%%%%%
@@ -48,10 +46,6 @@
 
 # Random things:
 androidtvchannels-pa.googleapis.com
-emoji.redditmedia.com
-pps.whatsapp.net
-e15.whatsapp.net
-g.whatsapp.net
 googleads.g.doubleclick.net
 ad.googlesyndication.com
 ad.doubleclick.net
@@ -79,6 +73,24 @@ alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
 alt9-mtalk.google.com
+
+# Fernseher Auto-Update
+authorize.nettvservices.com
+firmware.nettvservices.com
+
+# Fernseher sonstiges
+authorize.nettvservices.com
+cdnipepg.zeasn.tv
+epg.zeasn.tv
+smarttv.zeasn.tv
+cul-api-prod.tpv-analytics.com
+cdnproddata.zeasn.tv
+sasprod.nettvservices.com
+deviceportal.nettvservices.com
+firmware.nettvservices.com
+antv-26-philips-43pus650112-505005009.api.amazonvideo.com
+atv-axuj36lukeh5f-philips-qm16xeu-43pus650112-philipsqleasekeys.api.amazonvideo.com
+gql.twitch.tv
 
 # auskommentiert in https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt
 # Copyright (c) 2018 Perflyst
