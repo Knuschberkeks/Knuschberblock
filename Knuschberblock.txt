@@ -9,7 +9,6 @@ ad.doubleclick.net
 device-metrics-us-2.amazon.com
 tpc.googlesyndication.com
 app-measurement.com
-safebrowsing.googleapis.com
 
 ec.razer.com
 
