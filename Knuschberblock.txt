@@ -1,7 +1,22 @@
-# This is just a blocklist for pi-hole that I maintain for me personally.
+# This is just a blocklist for Pi-Hole that I maintain for me personally.
 # you can subscribe to it if you want, but I give no guarantee it doesn't break anything you need. Again, these are things I want to block on my own networks.
-#
+# 
 # Copyright © 2021 Knuschberkeks
+#
+# Github: https://github.com/Knuschberkeks/Knuschberblock
+# License: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/LICENSE
+# Raw file: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/Knuschberblock.txt
+#
+#
+#
+# Thanks to the creators of Pi-Hole for giving us this wonderful tool.
+# Visit https://github.com/pi-hole or https://pi-hole.net/ for more info.
+# If you use pi-hole, consider supporting it. Visit https://pi-hole.net/donate/#sponsorship
+#
+# Thanks to Ritter Sport for fueling my late night tinkering. Visit https://www.ritter-sport.com/
+# I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Ritter Sport Brand,
+# or any of its subsidiaries or its affiliates.
+# The names Ritter Sport and Knusperkeks as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 #
 # Github: https://github.com/Knuschberkeks/Knuschberblock
 # License: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/LICENSE
