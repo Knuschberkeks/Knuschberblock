@@ -9,8 +9,18 @@ ad.doubleclick.net
 device-metrics-us-2.amazon.com
 tpc.googlesyndication.com
 app-measurement.com
-
 ec.razer.com
+
+# auskommentierte domains aus https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt
+www.ecdinterface.philips.com
+connecttv.pelmorex.com
+hbbtv.prosieben.de
+apicache.vudu.com
+geo.opera.com
+tv.deezer.com
+nrdp.nccp.netflix.com
+api-tv.spotify.com
+
 
 
 # Fernseher Nachts:
@@ -30,3 +40,29 @@ alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
 alt9-mtalk.google.com
+
+
+# auskommentiert in https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+cortana-gateway.amazon.com
+api.amazonalexa.com
+avs.eu.amazonalexa.com
+
+
+# auskommentiert in https://v.firebog.net/hosts/static/w3kbl.txt
+gfwsl.geforce.com
+gfe.geforce.com
+gfe.nvidia.com
+images.nvidiagrid.net
+rds-assets.nvidia.com 
+assets.nvidiagrid.net
+events.gfe.nvidia.com
+services.gfe.nvidia.com
+
+# auskommentiert in https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social/hosts
+plusone.google.com
+plus.sandbox.google.com
+plus.l.google.com
+plus.l.google.com
+plus.l.google.com
+
+
