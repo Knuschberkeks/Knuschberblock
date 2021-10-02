@@ -1,7 +1,11 @@
 # This is just a blocklist for pi-hole that I maintain for me personally.
 # you can subscribe to it if you want, but I give no guarantee it doesn't break anything you need. Again, these are things I want to block on my own networks.
-# it's free to use and copy if you want. No need to credit me.
-# Raw file at https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/Knuschberblock.txt
+#
+# Github: https://github.com/Knuschberkeks/Knuschberblock
+# License: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/LICENSE.md
+# Raw file: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/Knuschberblock.txt
+
+
 
 #   #%%%#%#*/((############(############################################%%%*%%%%#%
 #   ####%%#*(###%##########(############################################%%% %%%%%%
@@ -30,6 +34,11 @@
 #  #####(&%%%%%%%%%#(((((%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#(%#### 
 
 
+
+
+
+
+# Random things:
 androidtvchannels-pa.googleapis.com
 emoji.redditmedia.com
 pps.whatsapp.net
@@ -43,7 +52,7 @@ tpc.googlesyndication.com
 app-measurement.com
 ec.razer.com
 
-# auskommentierte domains aus https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt
+# auskommentiert in https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt
 www.ecdinterface.philips.com
 connecttv.pelmorex.com
 hbbtv.prosieben.de
@@ -55,7 +64,7 @@ api-tv.spotify.com
 
 
 
-# Fernseher Nachts:
+# Fernseher nachts:
 history.google.com
 footprints-pa.googleapis.com
 push.prod.netflix.com
@@ -96,5 +105,3 @@ plus.sandbox.google.com
 plus.l.google.com
 plus.l.google.com
 plus.l.google.com
-
-
