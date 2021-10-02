@@ -1,8 +1,10 @@
 # This is just a blocklist for pi-hole that I maintain for me personally.
 # you can subscribe to it if you want, but I give no guarantee it doesn't break anything you need. Again, these are things I want to block on my own networks.
 #
+# Copyright © 2021 Knuschberkeks
+#
 # Github: https://github.com/Knuschberkeks/Knuschberblock
-# License: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/LICENSE.md
+# License: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/LICENSE
 # Raw file: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/Knuschberblock.txt
 
 
