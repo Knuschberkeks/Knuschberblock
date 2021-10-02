@@ -105,3 +105,6 @@ plus.sandbox.google.com
 plus.l.google.com
 plus.l.google.com
 plus.l.google.com
+
+# Test ob andere Listen meine Liste kopieren
+ich-mag-ritter-sport.knuschberkeks.de
