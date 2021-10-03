@@ -57,6 +57,7 @@ app-measurement.com
 ec.razer.com
 
 # Fernseher nachts:
+connectivitycheck.gstatic.com
 history.google.com
 footprints-pa.googleapis.com
 push.prod.netflix.com
