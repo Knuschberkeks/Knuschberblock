@@ -80,7 +80,6 @@ authorize.nettvservices.com
 firmware.nettvservices.com
 
 # Fernseher sonstiges
-authorize.nettvservices.com
 cdnipepg.zeasn.tv
 epg.zeasn.tv
 smarttv.zeasn.tv
@@ -88,7 +87,6 @@ cul-api-prod.tpv-analytics.com
 cdnproddata.zeasn.tv
 sasprod.nettvservices.com
 deviceportal.nettvservices.com
-firmware.nettvservices.com
 antv-26-philips-43pus650112-505005009.api.amazonvideo.com
 atv-axuj36lukeh5f-philips-qm16xeu-43pus650112-philipsqleasekeys.api.amazonvideo.com
 gql.twitch.tv
@@ -128,12 +126,43 @@ services.gfe.nvidia.com
 plusone.google.com
 plus.sandbox.google.com
 plus.l.google.com
-plus.l.google.com
-plus.l.google.com
 
 # Sony TV Bravia 4K
 cdn.meta.ndmdhs.com
 sa.sde.sony.com
+log.core.cloud.vewd.com
+
+# Samsung Q60
+api.eu-west-1.aiv-delivery.net
+
+# Samsung Q65
+fc.samsungcloud.tv
+osb-auth-eusvc.samsungqbe.com
+samsungtifa.com
+config.sbixby.com
+api.raygun.io
+svoice-vd-op.samsung-svoice.com
+
+# LG webOS TV SK7900PLA
+no.lgtvsdp.com
+no.ad.lgsmartad.com
+no.info.lgsmartad.com
+no.rdx2.lgtvsdp.com
+no.lgrecommends.lgappstv.com
+no.tvsdp.lgeapi.com
+
+# Philips 55PUT6101/12
+sdklog.tvstore.opera.com
+meteo.dotscreen.com
+ad.sxp.smartclip.net
+des.smartclip.net
+wuakimarketing.s3-eu-west-1.amazonaws.com
+optimized-by.rubiconproject.com
+ssp.zeasn.tv
+pubads.g.doubleclick.net
+ping.zeasn.tv
+cache.zeasn.tv
+deviceportal.zeasn.tv
 
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
