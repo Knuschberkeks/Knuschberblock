@@ -128,14 +128,17 @@ plus.sandbox.google.com
 plus.l.google.com
 
 # Sony TV Bravia 4K
+# Source: Abdulaziz Abdugani: Privacy Analysis of Smart TV Communication - A case study of privacy threats in Smart TVs © 2020 http://www.duo.uio.no/
 cdn.meta.ndmdhs.com
 sa.sde.sony.com
 log.core.cloud.vewd.com
 
 # Samsung Q60
+# Source: Abdulaziz Abdugani: Privacy Analysis of Smart TV Communication - A case study of privacy threats in Smart TVs © 2020 http://www.duo.uio.no/
 api.eu-west-1.aiv-delivery.net
 
 # Samsung Q65
+# Source: Abdulaziz Abdugani: Privacy Analysis of Smart TV Communication - A case study of privacy threats in Smart TVs © 2020 http://www.duo.uio.no/
 fc.samsungcloud.tv
 osb-auth-eusvc.samsungqbe.com
 samsungtifa.com
@@ -144,6 +147,7 @@ api.raygun.io
 svoice-vd-op.samsung-svoice.com
 
 # LG webOS TV SK7900PLA
+# Source: Abdulaziz Abdugani: Privacy Analysis of Smart TV Communication - A case study of privacy threats in Smart TVs © 2020 http://www.duo.uio.no/
 no.lgtvsdp.com
 no.ad.lgsmartad.com
 no.info.lgsmartad.com
@@ -152,6 +156,7 @@ no.lgrecommends.lgappstv.com
 no.tvsdp.lgeapi.com
 
 # Philips 55PUT6101/12
+# Source: Abdulaziz Abdugani: Privacy Analysis of Smart TV Communication - A case study of privacy threats in Smart TVs © 2020 http://www.duo.uio.no/
 sdklog.tvstore.opera.com
 meteo.dotscreen.com
 ad.sxp.smartclip.net
@@ -166,6 +171,14 @@ deviceportal.zeasn.tv
 ichnaea-nrdp-future-dradis.prod.ftl.netflix.com
 img.l.zeasn.tv
 tou.zeasn.tv
+crossroads.geo.netflix.com
+
+# Rakuten App
+# Source: Abdulaziz Abdugani: Privacy Analysis of Smart TV Communication - A case study of privacy threats in Smart TVs © 2020 http://www.duo.uio.no/
+a.zxcvads.com
+a-fds.youborafds01.com
+infinity-c8.youboranqs01.com domains
+yb.rakuten.tv
 
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
