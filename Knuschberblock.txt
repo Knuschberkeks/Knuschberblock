@@ -163,6 +163,9 @@ pubads.g.doubleclick.net
 ping.zeasn.tv
 cache.zeasn.tv
 deviceportal.zeasn.tv
+ichnaea-nrdp-future-dradis.prod.ftl.netflix.com
+img.l.zeasn.tv
+tou.zeasn.tv
 
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
