@@ -131,6 +131,10 @@ plus.l.google.com
 plus.l.google.com
 plus.l.google.com
 
+# Sony TV Bravia 4K
+cdn.meta.ndmdhs.com
+sa.sde.sony.com
+
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
 parts-of-this-list.Copyright-2021-Knuschberkeks.on.github.com
