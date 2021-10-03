@@ -103,6 +103,7 @@ geo.opera.com
 tv.deezer.com
 nrdp.nccp.netflix.com
 api-tv.spotify.com
+vcs.vdspf.com
 
 # auskommentiert in https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 # Copyright (c) 2018 Perflyst
