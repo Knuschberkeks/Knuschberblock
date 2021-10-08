@@ -181,6 +181,14 @@ a-fds.youborafds01.com
 infinity-c8.youboranqs01.com domains
 yb.rakuten.tv
 
+# auskommentiert in https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+# Copyright (c) 2018 Perflyst
+graph.facebook.com
+b-graph.facebook.com
+b-api.facebook.com
+edge-mqtt.facebook.com
+gcs.sc-cdn.net
+
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
 parts-of-this-list.Copyright-2021-Knuschberkeks.on.github.com
