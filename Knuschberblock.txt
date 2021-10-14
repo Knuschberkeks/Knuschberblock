@@ -190,8 +190,7 @@ edge-mqtt.facebook.com
 gcs.sc-cdn.net
 
 # wird von Fritz!App Fon benötigt um Anrufe ans Handy umzuleiten.
-# (Still testing)
-# cmrelay.avm.de
+cmrelay.avm.de
 
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
