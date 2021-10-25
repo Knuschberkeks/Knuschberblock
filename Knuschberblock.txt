@@ -75,6 +75,7 @@ alt7-mtalk.google.com
 alt8-mtalk.google.com
 alt9-mtalk.google.com
 rec.zeasn.tv
+playatoms-pa.googleapis.com
 
 # Fernseher Auto-Update
 authorize.nettvservices.com
