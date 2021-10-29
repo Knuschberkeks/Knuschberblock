@@ -56,6 +56,9 @@ app-measurement.com
 # Razer Synapse software
 ec.razer.com
 
+#Android Handys
+userlocation.googleapis.com
+
 # Fernseher nachts:
 connectivitycheck.gstatic.com
 history.google.com
