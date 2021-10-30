@@ -64,7 +64,6 @@ history.google.com
 footprints-pa.googleapis.com
 push.prod.netflix.com
 nrdp.prod.ftl.netflix.com
-secure.netflix.com
 preapp.prod.partner.netflix.net
 mtalk.google.com
 alt1-mtalk.google.com
