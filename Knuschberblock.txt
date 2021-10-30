@@ -49,7 +49,6 @@ androidtvchannels-pa.googleapis.com
 googleads.g.doubleclick.net
 ad.googlesyndication.com
 ad.doubleclick.net
-device-metrics-us-2.amazon.com
 tpc.googlesyndication.com
 app-measurement.com
 
