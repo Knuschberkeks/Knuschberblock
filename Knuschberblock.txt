@@ -119,7 +119,7 @@ gfwsl.geforce.com
 gfe.geforce.com
 gfe.nvidia.com
 images.nvidiagrid.net
-rds-assets.nvidia.com 
+rds-assets.nvidia.com
 assets.nvidiagrid.net
 events.gfe.nvidia.com
 services.gfe.nvidia.com
