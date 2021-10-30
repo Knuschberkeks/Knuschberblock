@@ -180,7 +180,7 @@ crossroads.geo.netflix.com
 # Source: Abdulaziz Abdugani: Privacy Analysis of Smart TV Communication - A case study of privacy threats in Smart TVs © 2020 http://www.duo.uio.no/
 a.zxcvads.com
 a-fds.youborafds01.com
-infinity-c8.youboranqs01.com domains
+infinity-c8.youboranqs01.com
 yb.rakuten.tv
 
 # auskommentiert in https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
