@@ -194,6 +194,10 @@ gcs.sc-cdn.net
 # wird von Fritz!App Fon benötigt um Anrufe ans Handy umzuleiten.
 cmrelay.avm.de
 
+# local Backup
+checkip.synology.com
+checkipv6.synology.com
+
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
 parts-of-this-list.Copyright-2021-Knuschberkeks.on.github.com
