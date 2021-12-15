@@ -198,6 +198,10 @@ cmrelay.avm.de
 checkip.synology.com
 checkipv6.synology.com
 
+# Windows 10 Startmenü Suche
+www. bing.com
+bing.com
+
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
 parts-of-this-list.Copyright-2021-Knuschberkeks.on.github.com
