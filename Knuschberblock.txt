@@ -199,7 +199,7 @@ checkip.synology.com
 checkipv6.synology.com
 
 # Windows 10 Startmenü Suche
-www. bing.com
+www.bing.com
 bing.com
 
 # Test ob andere Listen meine Liste kopieren
