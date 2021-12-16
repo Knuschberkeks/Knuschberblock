@@ -204,8 +204,30 @@ tools-cname.emailsys.net
 # Shein
 shein.com
 www.shein.com
+se-shein.com
+shein.tw
 de.shein.com
 sheinside.com
+wellwoods-shein.com
+uk-shein.com
+sheinside.com
+ca-shein.com
+website-shein.com
+romwe.co.in
+us-shein.com
+au-shein.com
+nl-shein.com
+fr-shein.com
+es-shein.com
+e-shein.com
+shein.co.uk
+mx-shein.com
+free-shein.com
+020mes.com
+api-shein.com
+ad-shein.com
+it-shein.com
+ksa-shein.com
 
 # Nestlé
 www.nestle.de
