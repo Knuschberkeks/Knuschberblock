@@ -44,13 +44,9 @@
 #       %##%#/#%/#######%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%.%%%#( 
 #       #####(&%%%%%%%%%#(((((%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#(%#### 
 
-# Random things:
-androidtvchannels-pa.googleapis.com
-googleads.g.doubleclick.net
-ad.googlesyndication.com
-ad.doubleclick.net
-tpc.googlesyndication.com
-app-measurement.com
+
+
+
 
 # Razer Synapse software
 ec.razer.com
