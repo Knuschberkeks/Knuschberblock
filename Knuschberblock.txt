@@ -51,6 +51,9 @@
 # Razer Synapse software
 ec.razer.com
 
+# Google Fonts
+fonts.googleapis.com
+
 #Android Handys
 userlocation.googleapis.com
 
