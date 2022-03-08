@@ -1,0 +1,37 @@
+# Auskommentiert in anderen Listen
+# For more info, visit https://github.com/Knuschberkeks/Knuschberblock
+
+# auskommentiert in https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt
+# Copyright (c) 2018 Perflyst
+www.ecdinterface.philips.com
+connecttv.pelmorex.com
+hbbtv.prosieben.de
+apicache.vudu.com
+geo.opera.com
+tv.deezer.com
+nrdp.nccp.netflix.com
+api-tv.spotify.com
+vcs.vdspf.com
+
+# auskommentiert in https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+# Copyright (c) 2018 Perflyst
+cortana-gateway.amazon.com
+api.amazonalexa.com
+avs.eu.amazonalexa.com
+
+# auskommentiert in https://v.firebog.net/hosts/static/w3kbl.txt
+# Personal Blocklist by WaLLy3K (https://firebog.net/about) is licensed under CC BY-NC 4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+gfwsl.geforce.com
+gfe.geforce.com
+gfe.nvidia.com
+images.nvidiagrid.net
+rds-assets.nvidia.com
+assets.nvidiagrid.net
+events.gfe.nvidia.com
+services.gfe.nvidia.com
+
+# auskommentiert in https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social/hosts
+# Copyright © 2021 Steven Black
+plusone.google.com
+plus.sandbox.google.com
+plus.l.google.com
