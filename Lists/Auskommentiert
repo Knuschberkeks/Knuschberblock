@@ -35,3 +35,11 @@ services.gfe.nvidia.com
 plusone.google.com
 plus.sandbox.google.com
 plus.l.google.com
+
+# auskommentiert in https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+# Copyright (c) 2018 Perflyst
+graph.facebook.com
+b-graph.facebook.com
+b-api.facebook.com
+edge-mqtt.facebook.com
+gcs.sc-cdn.net
