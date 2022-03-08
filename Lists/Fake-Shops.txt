@@ -1,1 +1,4 @@
+# Fake Shops
+# For more info, visit https://github.com/Knuschberkeks/Knuschberblock
+
 pluginboutique.shop
