@@ -1,3 +1,8 @@
+############################################################################################################################################
+##  WARNING! As of 2022-03-08 This list is no longer being maintained.                                                                    ##
+##  It is now been split up into several list, which can be found under https://github.com/Knuschberkeks/Knuschberblock/tree/Split/Lists  ##
+############################################################################################################################################
+
 # This is just a blocklist for Pi-Hole that I maintain for me personally.
 # You can subscribe to it if you want, but I give no guarantee it doesn't break anything you need,
 # indeed it does break some stuff, like Google Plus, but they are all things that I don't use anyway.
