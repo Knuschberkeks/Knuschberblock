@@ -6,7 +6,7 @@ Again, these are things I want to block on my own networks.
  
 Copyright © 2022 Knuschberkeks
 
-Github: https://github.com/Knuschberkeks/Knuschberblock/tree/Split
+Github: https://github.com/Knuschberkeks/Knuschberblock
 License: https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/Split/LICENSE
 
 Thanks to the creators of Pi-Hole for giving us this wonderful tool.
