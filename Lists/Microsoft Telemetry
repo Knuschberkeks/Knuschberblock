@@ -6,9 +6,14 @@ tile-service.weather.microsoft.com
 
 # OneNote
 cdn.onenote.net
+
+# OneDrive
 g.live.com
 oneclient.sfx.ms
 logincdn.msauth.net
+windows.policies.live.net
+api.onedrive.com
+skydrivesync.policies.live.net
 
 # Photos App
 evoke-windowsservices-tas.msedge.net
@@ -17,16 +22,23 @@ evoke-windowsservices-tas.msedge.net
 fp.msedge.net
 I-ring.msedge.net
 s-ring.msedge.net
+k-ring.msedge.net
+b-ring.msedge.net
 
 # Device Metadata
 dmd.metaservices.microsoft.com
+cs.dds.microsoft.com
 
 # Diagnostic Data
 v10.events.data.microsoft.com
 telecommand.telemetry.microsoft.com
+watson.telemetry.microsoft.com
 
 # Maps
 maps.windows.com
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+ssl.bing.com
 
 # Microsoft Store Analytics
 manage.devcenter.microsoft.com
@@ -34,3 +46,7 @@ manage.devcenter.microsoft.com
 # Windows Spotlight
 arc.msn.com
 ris.api.iris.microsoft.com
+mucp.api.account.microsoft.com
+
+# Location
+inference.location.live.net
