@@ -1,0 +1,36 @@
+# Blocking some (not all) Windows Telemetry
+# For more info, visit https://github.com/Knuschberkeks/Knuschberblock
+
+# Weather App
+tile-service.weather.microsoft.com
+
+# OneNote
+cdn.onenote.net
+g.live.com
+oneclient.sfx.ms
+logincdn.msauth.net
+
+# Photos App
+evoke-windowsservices-tas.msedge.net
+
+# Cortana and Live Tiles
+fp.msedge.net
+I-ring.msedge.net
+s-ring.msedge.net
+
+# Device Metadata
+dmd.metaservices.microsoft.com
+
+# Diagnostic Data
+v10.events.data.microsoft.com
+telecommand.telemetry.microsoft.com
+
+# Maps
+maps.windows.com
+
+# Microsoft Store Analytics
+manage.devcenter.microsoft.com
+
+# Windows Spotlight
+arc.msn.com
+ris.api.iris.microsoft.com
