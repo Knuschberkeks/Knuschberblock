@@ -1,3 +1,11 @@
+# ! ATTENTION !
+As of 2022-05-18 This repository was moved to codeberg.org
+
+New Repository main Page: https://codeberg.org/Knuschberkeks/Knuschberblock
+
+This Version of the lists will remain accessible here for the forseeable future but will no longer be updated.
+If you want to stay up to date on my lists change this list to the new ones at https://codeberg.org/Knuschberkeks/Knuschberblock/src/branch/main/Lists
+
 # Knuschberblock 
 This is just a collection of blocklists for Pi-Hole that I maintain for me personally.
 You can subscribe to them if you want, but I give no guarantee it doesn't break anything you need,
