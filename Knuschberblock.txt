@@ -1,7 +1,11 @@
-############################################################################################################################################
-##  WARNING! As of 2022-03-08 This list is no longer being maintained.                                                                    ##
-##  It is now been split up into several list, which can be found under https://github.com/Knuschberkeks/Knuschberblock/tree/Split/Lists  ##
-############################################################################################################################################
+########################################################################################################################################
+# ! ATTENTION !
+# As of 2022-05-18 This repository was moved to codeberg.org
+# New Repository main Page: https://codeberg.org/Knuschberkeks/Knuschberblock
+# This Version of the lists will remain accessible here for the forseeable future but will no longer be updated.
+# If you want to stay up to date on my lists change this List to 
+########################################################################################################################################
+
 
 # This is just a blocklist for Pi-Hole that I maintain for me personally.
 # You can subscribe to it if you want, but I give no guarantee it doesn't break anything you need,
@@ -52220,3 +52224,4 @@ zytoly.k2free.com
 # Test ob andere Listen meine Liste kopieren
 ich-mag-ritter-sport.knuschberkeks.de
 parts-of-this-list.Copyright-2021-Knuschberkeks.on.github.com
+
